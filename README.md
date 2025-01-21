@@ -5,3 +5,5 @@ The document specifies the Unicode characters in the grid, along with the x- and
 The minimum possible value of these coordinates is 0. There is no maximum possible value, so the grid can be arbitrarily large.
 
 Any positions in the grid that do not have a specified character should be filled with a space character.
+
+<img width="809" alt="image" src="https://github.com/user-attachments/assets/891f3b3f-1f9c-4686-9eb3-3d8b2e96de02" />
